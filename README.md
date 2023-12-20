@@ -1,4 +1,4 @@
-ML.M is a master at [East China Normal University](https://en.wikipedia.org/wiki/East_China_Normal_University)(2022-2025), mentored by Prof. [TingSu](https://scholar.google.com/citations?user=GHPWI7oAAAAJ). 
+ML.M is a master at [East China Normal University](https://en.wikipedia.org/wiki/East_China_Normal_University)(2022-2025), mentored by Prof. [TingSu](https://dblp.org/pid/42/6896-1.html). 
 
 [email: ml-ming@proton.me](mailto:ml-ming@proton.me)
 
